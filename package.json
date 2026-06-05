@@ -1,0 +1,25 @@
+{
+  "name": "express-psql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Q-Chan97/express-psql.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Q-Chan97/express-psql/issues"
+  },
+  "homepage": "https://github.com/Q-Chan97/express-psql#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
